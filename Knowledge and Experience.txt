@@ -1,0 +1,29 @@
+1. Tantangan terbesar saat membuat web yaitu terkadang sulit dalam memahami fungsi 
+dan kegunaan bahasa pemrograman. Untuk mengatasi hal tersebut yaitu memahami pelan-
+pelan, memperbanyak pengetahuan dan memperbanyak menyelesaikan studi kasus, yang 
+terpenting yaitu kita harus berdoa meminta pertolongan kepada Tuhan agar dimudahkan
+segala urusannya.
+
+2. Setahu saya, clean code adalah serangkaian code yang disusun dengan baik dan
+rapi sehingga dapat memudahkan programmer lain dalam membaca dan memodifikasi 
+code tersebut. 
+Untuk implementasi clean code pada project saya yaitu dengan memberi komentar pada 
+header agar jelas, pemberian nama variable yang sesuai, membuat code dengan tataan 
+yang rapi agar mudah dibaca dan dipahami.
+
+3. Iya, saya pernah menggunakan git dalam pengerjaan project. 
+Alur kerja git yang saya terapkan yaitu yang pertama saya akan melakukan clone, 
+kemudian saya akan melakukan perubahan pada file tersebut. Jika sudah, file yang
+saya ubah / tambahkan akan saya commit. Setelah itu saya akan melakukan proses pull
+terlebih dahulu sebelum mengirim / push project agar tidak terjadi konflik.
+
+4. Menurut saya, design pattren yaitu suatu cara yang digunakan programmer dalam 
+menyelesaikan masalah yang muncul ketika membuat suatu aplikasi maupun program.
+
+5. Saya bersedia ditempatkan onsite di Malang. Jika harus remote, saya akan menggunakan
+waktu saya dengan baik untuk mengerjakan task yang sudah diberi. Untuk availability 
+dalam berkomunikasi saya akan menginformasikan jika ada perubahan, penambahan, 
+kesulitan kepada rekan rekan agar tidak terjadi miss comunication. Untuk komunikasi
+sendiri akan dibentuk grup di Whatsapp, telegram, slack, dsb.
+
+
